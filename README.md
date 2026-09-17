@@ -1,10 +1,10 @@
 # Who am I?
 
-- Hey buddy, <b>Sarvdny</b> here! nice to see ya, I know you are also a future coder (or maybe you are right now) </br>
-- I'm just a guy who loves to build, trying to figure out any active problems in current system, tries to find optimistic solution, or any random shit</br>
-- Yeah, <b>I USE AI</b> but I am not a vibe coder, I just make my things easier with AI....</br>
-- Yeah, <b>I'm a MERN stack web developer</b>
-- Don't judge me just by my vercel deployments :) ....
+- Hey buddy, <b>Sarvdny</b> here! nice to see ya, I know you are also a future coder (or maybe you already are) </br>
+- I'm just a guy who loves to build, trying to figure out any active problems in current system, tries to find optimistic solution, or any similar random context</br>
+- Yeah, <b>I USE AI</b>, but rather than being a vibe coder, I just make things easier with it...</br>
+- Additionally, <b>I'm a MERN stack developer</b>
+- Don't judge me just by my vercel deployments :) ...
 - HAPPY CODING </>
 
 ## Want to connect?
@@ -16,8 +16,6 @@
 - [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sarvdny4all@gmail.com)
 
 # What Languages I know?
-
-see I know English, Hindi, Marathi.... but apart from them I know,
 
 - [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
 - [![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)](#)
