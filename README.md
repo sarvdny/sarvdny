@@ -13,7 +13,7 @@
 
 # What Languages i know?
 
-- see i know English, Hindi, Marathi.... but apart from them i know,
+see i know English, Hindi, Marathi.... but apart from them i know,
 
 - [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
 - [![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)](#)
