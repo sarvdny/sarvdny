@@ -29,7 +29,7 @@ see i know English, Hindi, Marathi.... but apart from them i know,
 
 # My stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=sarvdny&theme=dark&hide_border=true&timezone=ist&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sarvdny&theme=dark&hide_border=true&timezone=ist&date_format=j%20M%5B%20Y%5D)](#)
 
 # BTW, my profile's total visits are:
 
